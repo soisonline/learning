@@ -1,1 +1,1 @@
-learning stuffs 
+bash scripts practices 
